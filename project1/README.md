@@ -1,5 +1,5 @@
 # Jeremiah Vincent Jamero
-##Git Training with Josh
+## Git Training with Josh
 
 
 Changelog:
